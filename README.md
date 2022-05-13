@@ -1,1 +1,1 @@
-# staic-websit.git.io
+# staic-websit.github.io
